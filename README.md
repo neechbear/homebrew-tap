@@ -1,2 +1,3 @@
-# homwbrew-tap
-macOS Homebrew formulas to install Nicola Worthington's open source software
+# homebrew-tap
+
+macOS Homebrew formulas to install Nicola Worthington's open source software.
